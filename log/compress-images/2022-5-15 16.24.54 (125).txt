@@ -1,0 +1,8 @@
+File from: [dev/assets/img/icon-title-section-sizzling-fajitas.png]
+
+File to: [prod/assets/img/icon-title-section-sizzling-fajitas.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-title-section-sizzling-fajitas.png dev/assets/img/icon-title-section-sizzling-fajitas.png
+  error: 'prod\assets\img\icon-title-section-sizzling-fajitas.png' exists; not overwriting

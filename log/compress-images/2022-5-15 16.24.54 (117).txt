@@ -1,0 +1,24 @@
+File from: [dev/assets/img/icon-footer-clock.png]
+
+File to: [prod/assets/img/icon-footer-clock.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-clock.png dev/assets/img/icon-footer-clock.png
+  error: 'prod\assets\img\icon-footer-clock.png' exists; not overwriting
+File from: [dev/assets/img/icon-cactus-top-yellow.png]
+
+File to: [prod/assets/img/icon-cactus-top-yellow.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-cactus-top-yellow.png dev/assets/img/icon-cactus-top-yellow.png
+  error: 'prod\assets\img\icon-cactus-top-yellow.png' exists; not overwriting
+File from: [dev/assets/img/icon-footer-facebook.png]
+
+File to: [prod/assets/img/icon-footer-facebook.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-facebook.png dev/assets/img/icon-footer-facebook.png
+  error: 'prod\assets\img\icon-footer-facebook.png' exists; not overwriting

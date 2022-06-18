@@ -1,0 +1,8 @@
+File from: [dev/assets/img/icon-footer-google.png]
+
+File to: [prod/assets/img/icon-footer-google.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-google.png dev/assets/img/icon-footer-google.png
+  error: 'prod\assets\img\icon-footer-google.png' exists; not overwriting

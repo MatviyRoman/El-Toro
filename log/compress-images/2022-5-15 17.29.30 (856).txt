@@ -1,0 +1,48 @@
+File from: [dev/assets/img/pic-bg-section-authentic.png]
+
+File to: [prod/assets/img/pic-bg-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-authentic.png dev/assets/img/pic-bg-section-authentic.png
+  error: failed writing image to prod/assets/img/pic-bg-section-authentic.png (16)
+File from: [dev/assets/img/pic-bg-section-authentic.png]
+
+File to: [prod/assets/img/pic-bg-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-authentic.png dev/assets/img/pic-bg-section-authentic.png
+  error: 'prod\assets\img\pic-bg-section-authentic.png' exists; not overwriting
+File from: [dev/assets/img/line-circles.png]
+
+File to: [prod/assets/img/line-circles.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circles.png dev/assets/img/line-circles.png
+  error: 'prod\assets\img\line-circles.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-authentic.png]
+
+File to: [prod/assets/img/pic-bg-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-authentic.png dev/assets/img/pic-bg-section-authentic.png
+  error: failed writing image to prod/assets/img/pic-bg-section-authentic.png (16)
+File from: [dev/assets/img/pic-bg-section-authentic.png]
+
+File to: [prod/assets/img/pic-bg-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-authentic.png dev/assets/img/pic-bg-section-authentic.png
+  error: failed writing image to prod/assets/img/pic-bg-section-authentic.png (16)
+File from: [dev/assets/img/pic-bg-section-authentic.png]
+
+File to: [prod/assets/img/pic-bg-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-authentic.png dev/assets/img/pic-bg-section-authentic.png
+  error: failed writing image to prod/assets/img/pic-bg-section-authentic.png (16)

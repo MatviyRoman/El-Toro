@@ -1,0 +1,152 @@
+File from: [dev/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+File to: [prod/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-sizzling-fajitas.png dev/assets/img/pic-bg-section-sizzling-fajitas.png
+  error: 'prod\assets\img\pic-bg-section-sizzling-fajitas.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+File to: [prod/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-sizzling-fajitas.png dev/assets/img/pic-bg-section-sizzling-fajitas.png
+  error: 'prod\assets\img\pic-bg-section-sizzling-fajitas.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-quesadilla.png]
+
+File to: [prod/assets/img/pic-bg-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-quesadilla.png dev/assets/img/pic-bg-section-quesadilla.png
+  error: 'prod\assets\img\pic-bg-section-quesadilla.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+File to: [prod/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-sizzling-fajitas.png dev/assets/img/pic-bg-section-sizzling-fajitas.png
+  error: 'prod\assets\img\pic-bg-section-sizzling-fajitas.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+File to: [prod/assets/img/pic-bg-section-sizzling-fajitas.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-sizzling-fajitas.png dev/assets/img/pic-bg-section-sizzling-fajitas.png
+  error: 'prod\assets\img\pic-bg-section-sizzling-fajitas.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-quesadilla.png]
+
+File to: [prod/assets/img/pic-bg-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-quesadilla.png dev/assets/img/pic-bg-section-quesadilla.png
+  error: 'prod\assets\img\pic-bg-section-quesadilla.png' exists; not overwriting
+File from: [dev/assets/img/line-circles.png]
+
+File to: [prod/assets/img/line-circles.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circles.png dev/assets/img/line-circles.png
+  error: 'prod\assets\img\line-circles.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-quesadilla.png]
+
+File to: [prod/assets/img/pic-bg-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-quesadilla.png dev/assets/img/pic-bg-section-quesadilla.png
+  error: 'prod\assets\img\pic-bg-section-quesadilla.png' exists; not overwriting
+File from: [dev/assets/img/line-circles.png]
+
+File to: [prod/assets/img/line-circles.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circles.png dev/assets/img/line-circles.png
+  error: 'prod\assets\img\line-circles.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-authentic.png]
+
+File to: [prod/assets/img/pic-bg-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-authentic.png dev/assets/img/pic-bg-section-authentic.png
+  error: failed writing image to prod/assets/img/pic-bg-section-authentic.png (16)
+File from: [dev/assets/img/pic-bg-section-authentic.png]
+
+File to: [prod/assets/img/pic-bg-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-authentic.png dev/assets/img/pic-bg-section-authentic.png
+  error: failed writing image to prod/assets/img/pic-bg-section-authentic.png (16)
+File from: [dev/assets/img/line-circle.png]
+
+File to: [prod/assets/img/line-circle.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circle.png dev/assets/img/line-circle.png
+  error: 'prod\assets\img\line-circle.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-quesadilla.png]
+
+File to: [prod/assets/img/pic-bg-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-quesadilla.png dev/assets/img/pic-bg-section-quesadilla.png
+  error: 'prod\assets\img\pic-bg-section-quesadilla.png' exists; not overwriting
+File from: [dev/assets/img/line-circles.png]
+
+File to: [prod/assets/img/line-circles.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circles.png dev/assets/img/line-circles.png
+  error: 'prod\assets\img\line-circles.png' exists; not overwriting
+File from: [dev/assets/img/line-circle.png]
+
+File to: [prod/assets/img/line-circle.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circle.png dev/assets/img/line-circle.png
+  error: 'prod\assets\img\line-circle.png' exists; not overwriting
+File from: [dev/assets/img/line-circles.png]
+
+File to: [prod/assets/img/line-circles.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circles.png dev/assets/img/line-circles.png
+  error: 'prod\assets\img\line-circles.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-quesadilla.png]
+
+File to: [prod/assets/img/pic-bg-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-quesadilla.png dev/assets/img/pic-bg-section-quesadilla.png
+  error: failed writing image to prod/assets/img/pic-bg-section-quesadilla.png (16)
+File from: [dev/assets/img/line-circle.png]
+
+File to: [prod/assets/img/line-circle.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/line-circle.png dev/assets/img/line-circle.png
+  error: 'prod\assets\img\line-circle.png' exists; not overwriting
+File from: [dev/assets/img/pic-bg-section-quesadilla.png]
+
+File to: [prod/assets/img/pic-bg-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-bg-section-quesadilla.png dev/assets/img/pic-bg-section-quesadilla.png
+  error: 'prod\assets\img\pic-bg-section-quesadilla.png' exists; not overwriting

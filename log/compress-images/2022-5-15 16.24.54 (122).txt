@@ -1,0 +1,16 @@
+File from: [dev/assets/img/icon-footer-phone.png]
+
+File to: [prod/assets/img/icon-footer-phone.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-phone.png dev/assets/img/icon-footer-phone.png
+  error: 'prod\assets\img\icon-footer-phone.png' exists; not overwriting
+File from: [dev/assets/img/Logo-El-Toro.png]
+
+File to: [prod/assets/img/Logo-El-Toro.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/Logo-El-Toro.png dev/assets/img/Logo-El-Toro.png
+  error: 'prod\assets\img\Logo-El-Toro.png' exists; not overwriting

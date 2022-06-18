@@ -1,0 +1,8 @@
+File from: [dev/assets/img/pic-enchiladas.png]
+
+File to: [prod/assets/img/pic-enchiladas.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/pic-enchiladas.png dev/assets/img/pic-enchiladas.png
+  error: failed writing image to prod/assets/img/pic-enchiladas.png (16)

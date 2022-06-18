@@ -1,0 +1,128 @@
+File from: [dev/assets/img/icon-footer-facebook.png]
+
+File to: [prod/assets/img/icon-footer-facebook.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-facebook.png dev/assets/img/icon-footer-facebook.png
+  error: 'prod\assets\img\icon-footer-facebook.png' exists; not overwriting
+File from: [dev/assets/img/icon-footer-clock.png]
+
+File to: [prod/assets/img/icon-footer-clock.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-clock.png dev/assets/img/icon-footer-clock.png
+  error: 'prod\assets\img\icon-footer-clock.png' exists; not overwriting
+File from: [dev/assets/img/icon-cactus-top-yellow.png]
+
+File to: [prod/assets/img/icon-cactus-top-yellow.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-cactus-top-yellow.png dev/assets/img/icon-cactus-top-yellow.png
+  error: 'prod\assets\img\icon-cactus-top-yellow.png' exists; not overwriting
+File from: [dev/assets/img/icon--top-online-order.png]
+
+File to: [prod/assets/img/icon--top-online-order.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon--top-online-order.png dev/assets/img/icon--top-online-order.png
+  error: 'prod\assets\img\icon--top-online-order.png' exists; not overwriting
+File from: [dev/assets/img/icon-title-section-sizzling-fajitas.png]
+
+File to: [prod/assets/img/icon-title-section-sizzling-fajitas.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-title-section-sizzling-fajitas.png dev/assets/img/icon-title-section-sizzling-fajitas.png
+  error: 'prod\assets\img\icon-title-section-sizzling-fajitas.png' exists; not overwriting
+File from: [dev/assets/img/icon-title-section-quesadilla.png]
+
+File to: [prod/assets/img/icon-title-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-title-section-quesadilla.png dev/assets/img/icon-title-section-quesadilla.png
+  error: 'prod\assets\img\icon-title-section-quesadilla.png' exists; not overwriting
+File from: [dev/assets/img/icon-title-section-authentic.png]
+
+File to: [prod/assets/img/icon-title-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-title-section-authentic.png dev/assets/img/icon-title-section-authentic.png
+  error: 'prod\assets\img\icon-title-section-authentic.png' exists; not overwriting
+File from: [dev/assets/img/icon-footer-phone.png]
+
+File to: [prod/assets/img/icon-footer-phone.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-phone.png dev/assets/img/icon-footer-phone.png
+  error: 'prod\assets\img\icon-footer-phone.png' exists; not overwriting
+File from: [dev/assets/img/icon-footer-location.png]
+
+File to: [prod/assets/img/icon-footer-location.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-location.png dev/assets/img/icon-footer-location.png
+  error: 'prod\assets\img\icon-footer-location.png' exists; not overwriting
+File from: [dev/assets/img/icon-footer-google.png]
+
+File to: [prod/assets/img/icon-footer-google.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-google.png dev/assets/img/icon-footer-google.png
+  error: 'prod\assets\img\icon-footer-google.png' exists; not overwriting
+File from: [dev/assets/img/icon-footer-facebook.png]
+
+File to: [prod/assets/img/icon-footer-facebook.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-facebook.png dev/assets/img/icon-footer-facebook.png
+  error: 'prod\assets\img\icon-footer-facebook.png' exists; not overwriting
+File from: [dev/assets/img/icon-footer-clock.png]
+
+File to: [prod/assets/img/icon-footer-clock.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-footer-clock.png dev/assets/img/icon-footer-clock.png
+  error: 'prod\assets\img\icon-footer-clock.png' exists; not overwriting
+File from: [dev/assets/img/icon-cactus-top-yellow.png]
+
+File to: [prod/assets/img/icon-cactus-top-yellow.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-cactus-top-yellow.png dev/assets/img/icon-cactus-top-yellow.png
+  error: 'prod\assets\img\icon-cactus-top-yellow.png' exists; not overwriting
+File from: [dev/assets/img/icon--top-online-order.png]
+
+File to: [prod/assets/img/icon--top-online-order.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon--top-online-order.png dev/assets/img/icon--top-online-order.png
+  error: 'prod\assets\img\icon--top-online-order.png' exists; not overwriting
+File from: [dev/assets/img/icon-title-section-quesadilla.png]
+
+File to: [prod/assets/img/icon-title-section-quesadilla.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-title-section-quesadilla.png dev/assets/img/icon-title-section-quesadilla.png
+  error: 'prod\assets\img\icon-title-section-quesadilla.png' exists; not overwriting
+File from: [dev/assets/img/icon-title-section-authentic.png]
+
+File to: [prod/assets/img/icon-title-section-authentic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\programm\OpenServer\domains\eltoro.ua\node_modules\pngquant-bin\vendor\pngquant.exe --quality=30-60 -o prod/assets/img/icon-title-section-authentic.png dev/assets/img/icon-title-section-authentic.png
+  error: 'prod\assets\img\icon-title-section-authentic.png' exists; not overwriting
