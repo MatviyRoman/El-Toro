@@ -1014,6 +1014,9 @@ section.section {
             @media (max-width: 425px) {
                 flex-wrap: wrap;
                 justify-content: center;
+
+                flex-direction: column;
+                align-content: center;
             }
 
             .logo {
@@ -1044,6 +1047,10 @@ section.section {
 
                 @media (max-width: 1310px) {
                     align-items: flex-end;
+                }
+
+                @media (max-width: 425px) {
+                    justify-content: center;
                 }
 
                 .icon {
